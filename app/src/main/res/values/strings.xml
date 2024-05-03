@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ELIASAPP</string>
+    <string name="title_activity_animation">AnimationActivity</string>
+    <string name="title_activity_destination">DestinationActivity</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_form">FormActivity</string>
+    <string name="title_activity_layout">LayoutActivity</string>
+    <string name="title_activity_modern">ModernActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_tristan">TristanActivity</string>
+    <string name="title_activity_picture">PictureActivity</string>
+    <string name="title_activity_picture2">PictureActivity2</string>
+    <string name="title_activity_picture3">PictureActivity3</string>
+    <string name="title_activity_inset">InsetActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
